@@ -1,0 +1,14 @@
+
+body{
+  background:url("assets/images/watch.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.card-body {
+  background-color: beige;
+}
+.container{
+  width: 70%;
+}
